@@ -35,3 +35,4 @@ github_actions_cache/
 CLAUDE.md
 
 __pycache__/
+.direnv
